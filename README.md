@@ -1,5 +1,5 @@
 # Finance-portfolio
-Hi, I'm Russel Landi. I'm building analytics projects in treasury and FP&A, using Python, SQL and Power BI. All projects use public data only.
+Hi, I'm Russel Landi. I'm building an analytics projects in treasury and FP&A, using Python, SQL and Power BI. All projects use public data only.
 
 ## Projects 
 1. Kenyan bank peer dashboard (in progress)
