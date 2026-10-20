@@ -30,5 +30,6 @@ Sidian (unlisted, mid-tier)
 
 ## Method
 
-All figures are taken at group level for the same financial years.
-Sources are listed in `data/README.md`.
+All figures are taken at bank level (the Kenyan banking entity, excluding
+holding-company and regional subsidiary results) for the same financial years.
+Sources are listed in [data/README.md](data/README.md).
